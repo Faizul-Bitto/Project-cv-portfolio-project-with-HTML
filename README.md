@@ -11,7 +11,7 @@
 ### index.html
 
 - Header with profile image and LinkedIn link
-- Education 
+- Education
 - Experience
 - Projects (Hotel Management System, Pharmacy Management System)
 - Link to personal projects page
