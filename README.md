@@ -11,8 +11,8 @@
 ### index.html
 
 - Header with profile image and LinkedIn link
-- Education (North South University)
-- Experience (Startsmartz Technologies - Junior Full Stack Developer)
+- Education 
+- Experience
 - Projects (Hotel Management System, Pharmacy Management System)
 - Link to personal projects page
 
